@@ -1,22 +1,30 @@
-This repository is a collection of small, hands-on projects created using various engineering and simulation tools, including LabVIEW, Proteus, MATLAB, and others. Each folder represents a specific software platform and contains one or more mini-projects that demonstrate my practical exposure and learning.
+# **🛠️ Softwares I Have Worked With**
 
-These projects are not large-scale applications but are focused exercises aimed at understanding key features, interfaces, and functionalities of each tool. They reflect my initiative to explore a variety of technical environments and strengthen my foundation in both hardware and software-based design tools.
+This repository is a collection of small, hands-on projects created using various engineering and simulation tools, including **LabVIEW**, **Proteus**, **MATLAB**, and others.  
+Each folder represents a specific software platform and contains one or more mini-projects that demonstrate my practical exposure and learning.
 
-📁 Structure
-labview/
-Projects created using NI LabVIEW (e.g., simple automation, sorting logic, simulations).
+These projects are not large-scale applications but focused exercises aimed at understanding key features, interfaces, and functionalities of each tool.  
+They reflect my initiative to explore a variety of technical environments and strengthen my foundation in both hardware and software-based design tools.
 
-.....
+---
 
-✅ Purpose
+## **📁 Repository Structure**
+
+- **labview/**  
+  Projects created using NI LabVIEW (e.g., simple automation, logic simulations).
+
+---
+
+## **✅ Purpose**
+
 The goal of this repository is to document and showcase:
+- My exploratory work in various engineering software tools
+- Practical, hands-on mini-projects done during or outside coursework
+- My self-driven learning attitude and adaptability to new tools
 
-My early-stage explorations in popular engineering tools
+---
 
-A growing familiarity with software used in control systems, embedded electronics, and simulations
+## **📌 Note**
 
-My ability to self-learn and apply concepts outside of formal coursework
-
-📌 Note
-These projects are simplified and experimental in nature, designed primarily for learning and practice. I plan to expand this repository as I gain experience with more advanced tools and workflows.
+These are simple projects designed for learning purposes. I plan to expand this repository with more advanced work as I continue to gain experience.
 
